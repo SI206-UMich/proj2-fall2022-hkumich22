@@ -9,7 +9,7 @@ import unittest
 
 # Your name: Kieran Haas
 # Your student id: 21018374
-
+# Your email: haaskt@umich.edu
 
 def get_listings_from_search_results(html_file):
     """
