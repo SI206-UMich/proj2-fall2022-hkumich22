@@ -1,0 +1,31 @@
+a. I'm not totally sure if this is asking for a bureaucratic system or a computer one, but I'll try to at least touch on both.
+One hypothetical would be an internal system that essentially checks validity before a listing can be made: in order to host,
+you would need to provide proof of your licensing, which is then compared to city licensing data. However, this has obvious drawbacks, too.
+Chiefly, it could slow the whole process of doing business down drastically, even if highly automated. In turn, this would make Airbnb potentially
+weaker than a competitor who doesn't try to enforce rules ahead of time. This system would also be heavily dependent on local authorities,
+which isn't necessarily desirable for a business spanning multiple states and countries: why should we invest in a system like this if
+it potentially only applies in San Francisco? What if San Francisco doesn't want to work with us, or can't do so reliably?
+
+b. The Wikipedia page describes the "missing middle", specifically in terms of construction, but more broadly in that small houses for new homeowners
+are very scarce in spite of significant need. Our dataset would appear to include some number of relatively small houses which are now
+off the market due to short term rentals. The question of what constitutes "middle" could vary widely between regions, but being able to organize
+different listings in terms of how much space is provided and the type of room(s) included could help gauge what impact short term rentals have
+had on starter homes/the "missing middle". 
+
+c. This is not an easy problem to answer, as much as I'd like to give data scientists the opportunity to work. One factor would be that smaller
+websites can't necessarily comply with a huge volume of traffic. Imagine a county government agency which publishes statistics for its own citizens;
+it may anticipate a few hundred daily visitors at most, but what if a nearby university decided to use it as a source in a data science
+course with thousands of students? It could degrade the website such that people who really depend on it would have difficulty accessing it. 
+For reasons such as the above, I think it's important for the law to account for (1) reasonable expectations of how much data can be served, and
+(2) reasonable prioritization of certain users, e.g., local or otherwise vulnerable people rather than researchers, advertisers, search engines...
+
+d. Digital privacy is something I value greatly, and I think working with data requires careful discretion. Rather than publishing unfiltered data,
+researchers should make sure to review and potentially even anonymize their data before sharing it, even if it was posted publicly to begin with. This is because
+not all venues are equal. It's one thing for my resume to appear on my personal website, but I wouldn't really be comfortable with someone else downloading it
+and posting it on a Twitter page with ten thousand times more traffic than my website would ever have-- and where I have no say at all in moderation.
+
+This is all situational, of course. There are urgent circumstances which may call for drastic measures: I certainly wouldn't stop a report on 
+a major, ongoing human rights violation from being published in order to protect the people responsible for it. But Airbnb hosts, for instance, 
+aren't such an acute problem that I think we should make a habit of immediately exposing them to all forms of public scrutiny. I would bet that
+many aren't even fully aware of the ethical questions underpinning short term rentals. 
+
